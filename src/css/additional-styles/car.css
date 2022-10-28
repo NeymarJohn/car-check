@@ -1,0 +1,10 @@
+#hero {
+    background-image: url(../../images/Car-accident-report-Cover-20220605.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#report_hero {
+    background: url(../../images/car-appraisal_598294575.jpg) no-repeat;
+    background-size: cover;
+}
